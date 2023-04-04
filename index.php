@@ -32,7 +32,6 @@
     <br>
       <?php
         echo "<p>This web page will convert Fahrenheit to Celsius.<p>";
-        echo "<p>If you would rather convert from Fahrenheit to Celsius, press the button below:</p>";
         ?>
 
     <!-- User Input -->
