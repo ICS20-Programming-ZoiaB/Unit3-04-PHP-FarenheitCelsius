@@ -38,7 +38,7 @@
     <!-- User Input -->
       <?php echo "<h3>Your Input, in Fahrenheit:</h3>"; ?>
       <form action="./results.php" method="post" target="result">
-        <label for="celsius">Temperature in Fahrenheit</label>
+        <label for="celsius">Temperature in Fahrenheit:</label>
         <input type="number" step="0.01" name="temp" placeholder="Degrees Fahrenheit..."><br><br>
         <input type="submit" value="Click to convert!" button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
       </form>
