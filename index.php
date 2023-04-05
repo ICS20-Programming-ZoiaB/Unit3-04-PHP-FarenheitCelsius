@@ -34,6 +34,11 @@
         echo "<p>This web page will convert Fahrenheit to Celsius.<p>";
         ?>
 
+    <!-- Image -->
+    <center>
+    <img src="./images/temperature.png" alt="formula" width="400" length="400">
+    </center>
+
     <!-- User Input -->
       <?php echo "<h3>Your Input, in Fahrenheit:</h3>"; ?>
       <form action="./results.php" method="post" target="result">

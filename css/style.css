@@ -1,6 +1,6 @@
 /* Created by: ZoiaB
 * Created on: Apr 2023
-* This CSS file defines the style for index.html
+* This CSS file defines the style for index.php
 * ICS2O-Unit3-04-PHP-FahrenheitCelsius
 */
 
@@ -20,6 +20,7 @@ h1 {
 p {
   background-color: #775574;
   color: #e9d8d8;
+  text-align: center;
 }
 
 form {
